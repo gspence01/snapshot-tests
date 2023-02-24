@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "200px",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="octocat.png"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      @Gspence01
+    </div>
+    <p
+      className="card-text"
+    >
+      Hey! I am a software development student in SDSU's coding bootcamp! :) 
+    </p>
+  </div>
+</div>
+`;
